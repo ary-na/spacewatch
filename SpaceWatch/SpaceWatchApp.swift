@@ -9,9 +9,16 @@ import SwiftUI
 
 @main
 struct SpaceWatchApp: App {
+    @StateObject private var spaceManager = SpaceManager()
+    
     var body: some Scene {
-        WindowGroup {
-            ContentView()
+        MenuBarExtra(spaceManager.currentSpaceName) {
+            MenuView(spaceManager: spaceManager)
         }
+        
+        Window("SpaceWatch", id: "settings") {
+            SettingsView(spaceManager: spaceManager)
+        }
+        .windowResizability(.contentSize)
     }
 }
