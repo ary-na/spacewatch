@@ -1,4 +1,3 @@
-````markdown name=README.md
 # SpaceWatch
 
 A lightweight **macOS menu bar app** that shows your **current Space (desktop) name** and lets you **rename** your Spaces for quick context switching.
@@ -104,4 +103,3 @@ Issues and PRs are welcome. If you’re proposing a change involving the Space d
 ## License
 
 No license file is currently included. If you want this to be open-source, consider adding a `LICENSE` (MIT, Apache-2.0, GPL, etc.).
-````
