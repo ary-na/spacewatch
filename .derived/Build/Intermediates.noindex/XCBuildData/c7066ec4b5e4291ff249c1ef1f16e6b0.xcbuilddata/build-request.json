@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8f4ed39c6e4dce1e0787cc0b2255325487611b49f7adf86f78e6b6cc014f8c0f"
+    }
+  ],
+  "containerPath" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/SpaceWatch.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "macosx",
+      "sdk" : "macosx26.4",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Products",
+      "derivedDataPath" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived",
+      "indexDataStoreFolderPath" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

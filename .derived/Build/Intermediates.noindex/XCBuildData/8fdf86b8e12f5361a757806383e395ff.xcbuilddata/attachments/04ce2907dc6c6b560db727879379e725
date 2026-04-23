@@ -1,0 +1,69 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatch-primary.dia",
+    "emit-module-dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatch-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatch-primary-emit-module.dia",
+    "pch" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatch-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatch-primary.swiftdeps"
+  },
+  "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/README.md" : {
+    "const-values" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/README.swiftconstvalues",
+    "dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/README.d",
+    "diagnostics" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/README.dia",
+    "index-unit-output-path" : "/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/README.o",
+    "llvm-bc" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/README.bc",
+    "object" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/README.o",
+    "swift-dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/README.swiftdeps",
+    "swiftmodule" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/README~partial.swiftmodule"
+  },
+  "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/SpaceWatch/Managers/SpaceManger.swift" : {
+    "const-values" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceManger.swiftconstvalues",
+    "dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceManger.d",
+    "diagnostics" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceManger.dia",
+    "index-unit-output-path" : "/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceManger.o",
+    "llvm-bc" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceManger.bc",
+    "object" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceManger.o",
+    "swift-dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceManger.swiftdeps",
+    "swiftmodule" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceManger~partial.swiftmodule"
+  },
+  "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/SpaceWatch/SpaceWatchApp.swift" : {
+    "const-values" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatchApp.swiftconstvalues",
+    "dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatchApp.d",
+    "diagnostics" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatchApp.dia",
+    "index-unit-output-path" : "/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatchApp.o",
+    "llvm-bc" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatchApp.bc",
+    "object" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatchApp.o",
+    "swift-dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatchApp.swiftdeps",
+    "swiftmodule" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SpaceWatchApp~partial.swiftmodule"
+  },
+  "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/SpaceWatch/Views/MenuView.swift" : {
+    "const-values" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/MenuView.swiftconstvalues",
+    "dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/MenuView.d",
+    "diagnostics" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/MenuView.dia",
+    "index-unit-output-path" : "/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/MenuView.o",
+    "llvm-bc" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/MenuView.bc",
+    "object" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/MenuView.o",
+    "swift-dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/MenuView.swiftdeps",
+    "swiftmodule" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/MenuView~partial.swiftmodule"
+  },
+  "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/SpaceWatch/Views/SettingsView.swift" : {
+    "const-values" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/.derived/Build/Intermediates.noindex/SpaceWatch.build/Debug/SpaceWatch.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  }
+}

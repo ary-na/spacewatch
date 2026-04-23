@@ -1,0 +1,24 @@
+{
+  "source": "/Users/ariannajafiyamchelo/Documents/Personal/Projects/SpaceWatch/SpaceWatch/Views/MenuView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Space Settings...",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quit",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 74
+        }
+      }
+    ]
+  },
+  "version": 1
+}
